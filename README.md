@@ -5,4 +5,4 @@ This is my first repository
 I have learnt
 1. Python
 2. SQL
-3. Power BI
+3. Power B I
